@@ -11,10 +11,10 @@ This project compares **pull requests (PRs) written by AI coding agents** with *
 
 ```
 .
-├── 01_data_collection.ipynb    # Part 1: data collection / raw tables
+├── 01_data_collection.ipynb           # Part 1: data collection / raw tables
 ├── 02_cleaning_and_analysis.ipynb     # Part 2: cleaning, metrics, and analysis (RQ1 & RQ2)
 ├── data/
-│   ├── raw/                     # Raw tables exported in Part 1
+│   ├── raw/                     # Raw tables exported in Part 01
 │   └── clean/                   # Cleaned datasets used for the analysis
 ├── figures/                     # Plots produced by the analysis
 └── README.md
