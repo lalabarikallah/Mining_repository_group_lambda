@@ -11,8 +11,8 @@ This project compares **pull requests (PRs) written by AI coding agents** with *
 
 ```
 .
-├── Repo Mining part 1.ipynb     # Part 1: data collection / raw tables
-├── Repo_Mining_part_2.ipynb     # Part 2: cleaning, metrics, and analysis (RQ1 & RQ2)
+├── 01_data_collection.ipynb    # Part 1: data collection / raw tables
+├── 02_cleaning_and_analysis.ipynb     # Part 2: cleaning, metrics, and analysis (RQ1 & RQ2)
 ├── data/
 │   ├── raw/                     # Raw tables exported in Part 1
 │   └── clean/                   # Cleaned datasets used for the analysis
