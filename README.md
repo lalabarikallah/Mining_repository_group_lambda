@@ -43,7 +43,7 @@ The cleaned datasets (in `data/clean/`) are:
 
 ## Team (Group Lambda)
 
-- [Sara Boubekri]
-- [Leila Rouga]
-- [Lala Barik Allah]
-- [Yassine Mohamed Taha Abassi]
+- Sara Boubekri
+- Leila Rouga
+- Lala Barik Allah
+- Yassine Mohamed Taha Abassi
