@@ -35,10 +35,10 @@ The cleaned datasets (in `data/clean/`) are:
 
 | File | Content |
 |---|---|
-| `agent_pr_clean` (`.parquet` / `.csv`) | 31,233 closed AI PRs (RQ1) |
-| `human_pr_clean` (`.parquet` / `.csv`) | 5,065 closed human PRs (RQ1) |
-| `merge_rate_table.csv` | Merge rate for AI vs Human PRs |
-| `agent_pr_size_clean` (`.parquet` / `.csv`) | 30,793 AI PRs with size metrics (RQ2) |
+| `agent_pr_clean.csv`      | 31,233 closed AI PRs (RQ1) |
+| `human_pr_clean.csv`      | 5,065 closed human PRs (RQ1) |
+| `merge_rate_table.csv`    | Merge rate for AI vs Human PRs |
+| `agent_pr_size_clean.csv` | 30,793 AI PRs with size metrics (RQ2) |
 
 
 ## Team (Group Lambda)
