@@ -22,7 +22,7 @@ This project compares **pull requests (PRs) written by AI coding agents** with *
 
 ## Data
 
-The raw tables (exported in Part 1, stored in `data/raw/`) are:
+The raw tables (exported in data collection Part 01, stored in `data/raw/`) are:
 
 | File | Content |
 |---|---|
